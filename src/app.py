@@ -339,7 +339,7 @@ def main():
         """)
         
         st.markdown("---")
-        st.markdown("*Deutsche Bank Hackathon 5*")
+        st.markdown("*Deutsche Bank Hackathon 2025*")
     
     # Main content
     if page == "🎬 Demo Scenario":
