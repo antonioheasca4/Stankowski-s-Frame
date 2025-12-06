@@ -1,0 +1,23 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+*.egg-info/
+dist/
+build/
+.streamlit/
+.DS_Store
+*.log
+
+# Output directory (generated files)
+output/temp_*
+output/test_*
+
+# Keep example files
+!output/encoded_document.png
+!output/README.md
